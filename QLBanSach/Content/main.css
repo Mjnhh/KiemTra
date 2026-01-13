@@ -5,3 +5,15 @@
    color:#ff0000;
    font-weight:bold;
 }
+
+.table thead th{
+  vertical-align:middle;
+}
+
+.table td{
+  vertical-align:middle;
+}
+
+.table .text-primary{
+  font-weight:600;
+}

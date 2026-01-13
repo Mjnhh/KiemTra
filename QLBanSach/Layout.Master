@@ -13,18 +13,15 @@
 
         <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
             <!-- Brand/logo -->
-            <a class="navbar-brand" href="#">Nhà sách MK</a>
+            <a class="navbar-brand" href="QTSach.aspx">Nhà sách MK</a>
 
             <!-- Links -->
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Liên kết 1</a>
+                    <a class="nav-link" href="QTSach.aspx">Quản lý sách</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Liên kết 2</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Liên kết 3</a>
+                    <a class="nav-link" href="ThemSach.aspx">Thêm sách</a>
                 </li>
             </ul>
         </nav>
@@ -35,7 +32,7 @@
         </div>
 
         <div class="bg-dark text-light text-center text-uppercase p-2">
-             Mã số - Họ tên sinh viên thực hiện
+             2421160033 - Nguyễn Nhật Minh
         </div>
     </form>
 </body>

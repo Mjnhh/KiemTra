@@ -15,6 +15,24 @@ namespace QLBanSach
     {
 
         /// <summary>
+        /// lblThongBao control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblThongBao;
+
+        /// <summary>
+        /// vs1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ValidationSummary vs1;
+
+        /// <summary>
         /// txtTen control.
         /// </summary>
         /// <remarks>
@@ -24,6 +42,15 @@ namespace QLBanSach
         protected global::System.Web.UI.WebControls.TextBox txtTen;
 
         /// <summary>
+        /// rfvTen control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvTen;
+
+        /// <summary>
         /// txtDonGia control.
         /// </summary>
         /// <remarks>
@@ -31,6 +58,24 @@ namespace QLBanSach
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtDonGia;
+
+        /// <summary>
+        /// rfvDonGia control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvDonGia;
+
+        /// <summary>
+        /// rvDonGia control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RangeValidator rvDonGia;
 
         /// <summary>
         /// ddlChuDe control.
@@ -49,6 +94,15 @@ namespace QLBanSach
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.FileUpload FHinh;
+
+        /// <summary>
+        /// cvHinh control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CustomValidator cvHinh;
 
         /// <summary>
         /// chkKhuyenMai control.
